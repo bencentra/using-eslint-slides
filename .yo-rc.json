@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Enforcing Code Style and Quality with ESLint",
+    "packageVersion": "1.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
