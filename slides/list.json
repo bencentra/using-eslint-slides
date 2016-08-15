@@ -1,1 +1,6 @@
-["index.md"]
+[
+    "index.md",
+    "what-is-code-linting.md",
+    "why-lint-javascript.md",
+    "what-is-eslint.md"
+]
