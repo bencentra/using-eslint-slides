@@ -8,11 +8,11 @@ npm install --save-dev eslint-config-airbnb-base
 
 And extend in your config, overriding existing rules:
 
-```json
-{
+```js
+module.exports = {
     "extends": "airbnb-base",
     "rules": {
         "comma-dangle": 0
     }
-}
+};
 ```

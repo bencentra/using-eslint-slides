@@ -6,5 +6,7 @@
     "setting-up-eslint.md",
     "applying-rules.md",
     "configuring-eslint.md",
-    "extending-eslint-configs.md"
+    "extending-eslint-configs.md",
+    "ctct-best-practices.md",
+    "questions.md"
 ]
